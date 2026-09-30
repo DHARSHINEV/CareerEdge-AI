@@ -1,0 +1,29 @@
+Alex Morgan [DEMO DATA]
+Seattle, WA | alex.morgan.demo@example.com | (555) 019-2834
+github.com/alexmorgan-demo | linkedin.com/in/alexmorgan-demo
+
+EDUCATION
+University of Washington — Bachelor of Science in Computer Science
+Graduation: 2025
+Relevant Coursework: Machine Learning, Algorithms, Database Systems, Computer Architecture
+
+TECHNICAL SKILLS
+• Programming: Python, C++, SQL, JavaScript, HTML, CSS
+• ML/AI: TensorFlow, Scikit-learn, Computer Vision, OpenCV, Pandas, NumPy, Statistics
+• Developer Tools: Git, GitHub, Linux, Jupyter Notebooks
+
+WORK EXPERIENCE
+AI Research Intern | DataPulse Analytics
+June 2024 – September 2024 | Seattle, WA
+• Engineered data preprocessing and feature extraction pipelines in Python and Pandas across 2.5M records.
+• Trained and tuned gradient boosting and random forest models using Scikit-learn, improving baseline precision by 14%.
+• Collaborated with senior engineers on benchmarking inference times across internal clusters.
+
+KEY PROJECTS
+Autonomous Object Detection System | TensorFlow, OpenCV, Python
+• Built a multi-class object detection pipeline in TensorFlow and OpenCV for live video streaming.
+• Processed video feeds at 32 frames per second with mean average precision of 0.81.
+
+URL Phishing & Security Classifier | Scikit-learn, Python, Pandas
+• Developed an automated cybersecurity feature classification pipeline analyzing URL lexical heuristics.
+• Achieved 94.2% accuracy across a public benchmark dataset of 80,000 URLs with SHAP explainability.

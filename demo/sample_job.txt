@@ -1,0 +1,27 @@
+Position: Machine Learning Engineer (On-Device & Edge AI) [DEMO DATA]
+Company: Qualcomm Technologies & Snapdragon Innovation Labs
+Location: San Diego, CA / Remote
+
+About the Role:
+We are seeking a talented Machine Learning Engineer to design, deploy, and optimize cutting-edge AI models for on-device acceleration across next-generation Snapdragon-powered PCs. You will work closely with hardware and systems teams to bring high-performance, privacy-first local AI experiences to millions of users.
+
+Required Qualifications & Skills:
+• Strong proficiency in Python and modern C++ engineering.
+• Deep expertise with PyTorch for neural network design, training, and fine-tuning.
+• Hands-on experience with ONNX and model quantization (INT8, FP16) for low-latency inference.
+• Proven proficiency with Docker containerization and reproducible runtime packaging.
+• Solid foundation in Machine Learning, Deep Learning, and linear algebra.
+• Version control experience with Git and GitHub.
+
+Preferred Qualifications & Skills:
+• Familiarity with Qualcomm QNN (Qualcomm Neural Network SDK) or Hexagon NPU architecture.
+• Experience deploying cloud services on AWS or Azure.
+• Knowledge of MLOps pipelines and automated model benchmarking.
+• Experience with FastAPI or high-performance async REST interfaces.
+• Bachelor's degree in Computer Science, Electrical Engineering, or related discipline.
+
+Responsibilities:
+• Optimize and quantize deep neural networks for execution on Snapdragon Hexagon NPUs.
+• Build automated benchmarking harnesses to evaluate latency, throughput, and power efficiency.
+• Package ML inference pipelines into lightweight Docker containers for seamless deployment.
+• Collaborate with cross-functional teams to integrate local AI models into privacy-first Windows desktop applications.
